@@ -39,4 +39,4 @@
 ## 📸 Results  
 
 ### Input vs Reconstruction  vs Generative Image
-![Reconstruction](output.png)
+![Reconstruction](Output.png.png)
