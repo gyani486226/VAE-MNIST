@@ -35,3 +35,8 @@
 - README.md
 - Deep learning library >> Pytorch
 - Dependies 
+
+## 📸 Results  
+
+### Input vs Reconstruction  vs Generative Image
+![Reconstruction](output.png)
